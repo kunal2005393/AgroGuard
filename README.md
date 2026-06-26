@@ -115,6 +115,23 @@ The system also recommends an alternative crop when current conditions are not i
  Exhibition
 
 This project was successfully demonstrated during my college exhibition, where it received appreciation from the Head of the Department (HOD) for its practical application in smart agriculture.
+📸 Project Images
+
+### Final Model
+
+![Final Model](Images/final_model.jpg)
+
+### OLED Display
+
+![OLED Display](Images/oled_display.jpg)
+
+### Top View
+
+![Top View](Images/top_view.jpg)
+
+### Live Dashboard
+
+![Dashboard](Images/live_webpage.jpg)
 
 
  👨‍💻 Author
